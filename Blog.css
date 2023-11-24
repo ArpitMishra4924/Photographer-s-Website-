@@ -1,0 +1,112 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Style the header and navigation */
+header {
+    background-color: #000000;
+    color:#ffffff;
+    text-align: center;
+    padding: 4rem 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav ul {
+    list-style:circle;
+    
+}
+
+nav li  {
+    display: inline;
+    margin-right: 70px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    
+}
+
+/* Style the hero section */
+.hero {
+    background-image: url("ryan-shumway--n5F3fH0lIY-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #000000;
+    text-align: center;
+    padding: 21rem 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Style the about section */
+.about {
+    
+    text-align: center;
+    padding: 20rem 0;
+    background-position: center;
+    background-image: url('pexels-todd-trapani-2276928.jpg');
+    background-size: cover;
+    background-position: center;
+    font-size: larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* Style the contact section */
+.contact {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 3rem 0;
+   
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    
+}
+.Big-Font{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    padding:10px;
+
+}
+nav a:hover,
+nav a.active {
+    color: #5c7a86;
+    transition: 10ms;
+} 
+.PhotographyTips{
+    background-image: url("conor-luddy-IVaKksEZmZA-unsplash.jpg");
+    background-size: cover;
+    text-align: justify;
+    padding: 30px;
+    border: 30px;
+    text-align:unset;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    
+
+}  
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+  }
+  .grid-item {
+    grid-column: 1 / 3;
+    grid-row: 1;
+  }
+  .grid-container {
+    gap: 10px;
+  }
+  
