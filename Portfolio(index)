@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="StylePortfolio.css">
+    <title>Photographer Portfolio</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="HomePage.html">Home</a></li>
+                <li><a href="Portfolio(Index).html">Portfolio</a></li>
+                <li><a href="Blog.html">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1><b>Welcome to My Photography Portfolio</b></h1>
+        <p>Explore the beauty of the world through my lens.</p>
+    </section>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <h3>Hi, I'm Arpit Mishra, a passionate photographer. I specialize in Nature Photography, capturing moments that last a lifetime.<br>I beleive that there are a certain things that we cannot see but can capture.<br> </h3> 
+            <p>My goal is to not only capture stunning images but also to raise awareness about the importance of preserving our planet's biodiversity. Through my photographs, I aim to inspire others to connect with nature, appreciate its intricate details, and understand the need for conservation.
+
+            From breathtaking landscapes to close-up shots of flora and fauna, my photography showcases the diversity and magnificence of the natural world. I believe that every photograph has a story to tell, and I aim to convey the emotions and experiences I encounter during my journey.
+            
+            Whether it's the vibrant colors of a sunset, the delicate petals of a flower, or the majestic presence of wildlife, I strive to capture these moments in their purest form. My photographs aim to transport viewers to the very heart of nature, allowing them to experience its beauty and serenity.</p>
+            <br>
+            <br>
+
+            <p>As a photographer, I have the privilege of witnessing and capturing the unparalleled beauty of nature through my lens. Nature is a constant source of inspiration, offering an endless array of breathtaking scenes and captivating moments.
+
+                One of the most remarkable aspects of nature's beauty is its ability to evoke a sense of awe and wonder. From the grandeur of towering mountains to the delicate intricacy of a flower petal, every element of the natural world holds its own unique charm. 
+
+                Nature also has a way of captivating our senses. The gentle rustling of leaves, the soothing sound of flowing water, and the sweet fragrance of blooming flowers all contribute to the immersive experience of being in nature. As a photographer, I strive to capture not only the visual beauty but also the essence of these sensory experiences, allowing viewers to feel a connection with the natural world.
+
+            </p>
+            
+
+            <br>
+            <br>
+
+            <p>Beyond its visual and sensory appeal, nature holds a profound sense of tranquility and serenity. In the midst of bustling cities and hectic lives, nature provides a sanctuary where one can find solace and peace. Through my photographs, I aim to convey this sense of calmness, inviting viewers to pause, reflect, and appreciate the beauty that surrounds us.
+
+                Nature is also a powerful reminder of the interconnectedness of all living beings. From the delicate balance of ecosystems to the intricate relationships between flora and fauna, nature teaches us the importance of harmony and coexistence. Through my photography, I hope to foster a deeper understanding and appreciation for the delicate web of life that sustains us all.
+                
+                In summary, the beauty of nature, as seen through the eyes of a photographer, is a captivating symphony of sights, sounds, and emotions. It is a reminder of our place in the world and a call to protect and preserve the wonders that nature has to offer.</p>
+
+    </section>
+
+    <section class="contact" id="contact">
+        <h2>Contact Me</h2>
+        <p>If you're interested in working together or have any questions, feel free to reach out to me at arpitmishra4924@gmail.com.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 [Arpit Mishra] - All Rights Reserved</p>
+    </footer>
+</body>
+</html>
